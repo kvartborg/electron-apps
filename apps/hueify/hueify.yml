@@ -1,0 +1,11 @@
+name: hueify
+description: 'A controller for your Philip Hue lights'
+website: 'https://github.com/kvartborg/hueify'
+category: Utilities
+repository: 'https://github.com/kvartborg/hueify'
+keywords:
+    - philips
+    - hue
+    - controller
+    - remote
+license: MIT
